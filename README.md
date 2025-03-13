@@ -9,7 +9,7 @@ By tracking when I shop, what I spend across different categories, and potential
 
 ### **Hypotheses**
 
-* Hypothesis 1): My spending on clothing does not significantly vary based on the day of the week.
+* Hypothesis 1: My spending on clothing does not significantly vary based on the day of the week.
 
 * Hypothesis 2: My spending on clothing is not significantly influenced by brand preference.
 
@@ -24,7 +24,7 @@ This study will focus exclusively on my own shopping data, collected from 2024 t
 ### Primary Data Collection
 
 
-The dataset will be built using three main sources: transaction records, order confirmations and menstrual cycle tracking data from the period tracker app Flo. Item characteristics such as original price, discount details, product and brand name will be gathered from transaction records and order confirmations from e-commerce platforms. Only spending on clothing will be analyzed to examine how factors like day of the week, discounts and other influences affect my purchasing decisions.
+The dataset will be built using three main sources: transaction records, order confirmations and menstrual cycle tracking data from the period tracker app Flo. Item characteristics such as original price, discount details, product and brand name will be gathered from transaction records and order confirmations from online shopping platforms. Only spending on clothing will be analyzed to examine how factors like day of the week, discounts and other influences affect my purchasing decisions.
 
 ### Data Structure
 
