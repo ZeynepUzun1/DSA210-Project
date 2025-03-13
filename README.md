@@ -9,9 +9,13 @@ By tracking when I shop, what I spend across different categories, and potential
 
 ### **Hypotheses**
 
-* H0 (Null Hypothesis): My spending on clothing is proportionally distributed and does not significantly vary based on external factors such as time of the month, discounts or hormonal cycle.
+* Hypothesis 1): My spending on clothing does not significantly vary based on the day of the week.
 
-* H1 (Alternative Hypothesis): My spending on clothing is significantly influenced by factors such as time of the month, discounts or hormonal cycle.
+* Hypothesis 2: My spending on clothing is not significantly influenced by brand preference.
+
+* Hypothesis 3: My spending on clothing is not significantly affected by the presence of discounts.
+
+* Hypothesis 4: My spending on clothing does not significantly differ based on my menstrual cycle.
 ---
 ## **Dataset**
 This study will focus exclusively on my own shopping data, collected from 2024 through May 2025.
@@ -20,7 +24,7 @@ This study will focus exclusively on my own shopping data, collected from 2024 t
 ### Primary Data Collection
 
 
-The dataset will be built using three main sources: transaction records, order confirmations and menstrual cycle tracking data from the period tracker app Flo. Item characteristics such as product name, original price and discount details will be gathered from transaction records and order confirmations from e-commerce platforms. Only spending on clothing will be analyzed to examine how factors like time of the month, discounts and other influences affect my purchasing decisions.
+The dataset will be built using three main sources: transaction records, order confirmations and menstrual cycle tracking data from the period tracker app Flo. Item characteristics such as original price, discount details, product and brand name will be gathered from transaction records and order confirmations from e-commerce platforms. Only spending on clothing will be analyzed to examine how factors like day of the week, discounts and other influences affect my purchasing decisions.
 
 ### Data Structure
 
@@ -30,6 +34,7 @@ The dataset will include these variables:
 * Purchase date: The exact date the purchase was made.
 * Day of the week: Which day of the week the purchase was made.
 * Item name: The name of the purchased clothing item.
+* Brand name: The brand name of the purchased clothing item.
 * Price: The price of the item.
 * Discount amount: Any discount applied to the item (if applicable).
 * Hormonal cycle: Whether I was on my period or not on the date of purchase (tracked through the Flo app).
