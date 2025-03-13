@@ -13,7 +13,7 @@ By tracking when I shop, what I spend across different categories, and potential
 
 * H1 (Alternative Hypothesis): My spending on clothing is significantly influenced by factors such as time of the month, discounts or hormonal cycle.
 ---
-## **Data Sources and Preprocessing**
+## **Dataset**
 This study will focus exclusively on my own shopping data, collected from 2024 through May 2025.
 
 
