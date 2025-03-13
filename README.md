@@ -5,7 +5,7 @@
 Understanding personal shopping behavior can reveal significant insights about decision making patterns that influence spending habits. By analyzing my own purchases, I aim to identify the key factors that drive my choices as a consumer. This analysis will look at how time patterns, physiological cycles and outside influences such as discounts impact my purchases. By gaining these insights, I hope to develop more mindful and intentional spending habits that align with my financial and personal goals.
 ***
 ## **Project Goal**
-By tracking when I shop, what I spend across different categories, and potential influences including my menstrual cycle, I aim to develop insights into my consumer psychology and create strategies for making more intentional purchasing decisions. With the data I get from my credit card transactions, these hypotheses will be tested:
+By tracking when I shop, what I spend and potential influences including my menstrual cycle, I aim to develop insights into my consumer psychology and create strategies for making more intentional purchasing decisions. These hypotheses will be tested based on my data:
 
 ### **Hypotheses**
 
