@@ -1,0 +1,79 @@
+﻿id;purchase_date;day_of_the_week;product_name;brand_name;price;discount_amount;season;hormonal_cycle;proximity_to_my_salary_date;category
+1;16.04.2025;Wednesday;Eklips Kalemtıraş;Gratis;45,00;NaN;Spring;0;15;Makeup
+2;16.04.2025;Wednesday;Duru Kiraz Çiçeği Organik Sabun;Gratis;75,00;0,40;Spring;0;15;Selfcare
+3;16.04.2025;Wednesday;Çan Kollu Vücuda Oturan Gömlek;Bershka;1090,00;NaN;Spring;0;15;Clothing
+4;16.04.2025;Wednesday;Uzun Kollu ve Büzgülü T-Shirt;Bershka;620,00;0,40;Spring;0;15;Clothing
+5;20.03.2025;Thursday;Almost Lipstick Ruj - Black Honey;Clinique;868,00;0,20;Spring;0;19;Makeup
+6;18.03.2025;Tuesday;Lip Perfector;Clarins;805,60;0,20;Spring;0;17;Makeup
+7;17.03.2025;Monday;Düğmeli Triko Hırka;Stradivarius;830,00;0,30;Spring;0;16;Clothing
+8;17.03.2025;Monday;Elseve Dream Long Saç Serumu Pürüzsüzleştirici;Watsons;121,74;0,63;Spring;0;16;Selfcare
+9;16.03.2025;Sunday;Helly Kolye;Nel;360,90;0,21;Spring;0;15;Accessories
+10;16.03.2025;Sunday;Bonnie Slim Circle Kolye;Nel;260,95;0,21;Spring;0;15;Accessories
+11;16.03.2025;Sunday;Vistoso Kolye;Nel;333,13;0,21;Spring;0;15;Accessories
+12;13.03.2025;Thursday;Kadın 5'li Pamuklu Çorap;DeFacto;134,99;0,10;Spring;0;12;Clothing
+13;11.03.2025;Tuesday;3'lü Pilates Bandı Direnç Lastiği Seti;Walke;132,80;0,11;Spring;0;10;Sports/Wellness
+14;11.03.2025;Tuesday;Premium 10 mm Taşıma Askılı Pilates Minderi Yoga Matı;Walke;256,08;0,11;Spring;0;10;Sports/Wellness
+15;10.03.2025;Monday;Mavi Düşük Bel Flare Jeans;TRENDYOLMİLLA;624,71;0,09;Spring;0;9;Clothing
+16;10.03.2025;Monday;Siyah Soft Fırçalı Kumaş Fermuarlı Örme Spor Ceket/Sweatshirt;TRENDYOLMİLLA;505,27;0,09;Spring;0;9;Clothing
+17;9.03.2025;Sunday;Oval Yaka Yumuşak Dokulu Triko Kazak;Dilvin;629,00;0,09;Spring;1;8;Clothing
+18;9.03.2025;Sunday;Füme Jenny Düğmeli Hırka;Suud Collection;1280,00;0,07;Spring;1;8;Clothing
+19;8.03.2025;Saturday;Sünger Hazneli 2 Bölmeli Mutfak Sıvı Sabunluk;Mutfak Köşesi;149,99;NaN;Spring;1;7;Home
+20;8.03.2025;Saturday;4.5 Lt. Çöp Kovası;Mutfak Köşesi;117,55;NaN;Spring;1;7;Home
+21;5.03.2025;Wednesday;2 Adet Makyaj Kozmetik Makyaj Fırçası Şeffaf Kapaklı Organizer Seti;Pufwin Home;278,99;NaN;Spring;1;4;Home
+22;5.03.2025;Wednesday;Pilili Poplin Top;Zara;1190,00;NaN;Spring;1;4;Clothing
+23;4.03.2025;Tuesday;Askılı Top;Zara;490,00;NaN;Spring;1;3;Clothing
+24;26.02.2025;Wednesday;Bedene Oturan Tişört;H&M;399,72;0,09;Winter;0;25;Clothing
+25;26.02.2025;Wednesday;Fermuarlı Spor Ceketi SoftMove;H&M;1089,27;0,09;Winter;0;25;Clothing
+26;22.02.2025;Saturday;MACXIMAL Silky Matte Lipstick;MAC;810,65;0,18;Winter;0;21;Makeup
+27;21.02.2025;Friday;Loreal Paris Elseve Glycolic Gloss Saç Kremi;Gratis;133,33;0,64;Winter;0;20;Selfcare
+28;21.02.2025;Friday;ELLİS 3'lü İri Yüzük;KİLİGİSTANBUL;319,99;NaN;Winter;0;20;Accessories
+29;20.02.2025;Thursday;Kadın Kayak Montu;Decathlon;3000,00;NaN;Winter;0;19;Clothing
+30;8.02.2025;Saturday;Polosmart Makyaj Fırçası Temizleyici;Gratis;199,60;0,60;Winter;1;7;Selfcare
+31;8.02.2025;Saturday;Nascita Make Up Puff;Gratis;30,20;0,60;Winter;1;7;Makeup
+32;4.02.2025;Tuesday;Ekru Sweatshirt;Penti;330,00;0,70;Winter;1;3;Clothing
+33;4.02.2025;Tuesday;Termal Gri Tişört Pijama Üstü;Penti;240,00;0,70;Winter;1;3;Clothing
+34;4.02.2025;Tuesday;Çok Renkli Pantolon Pijama Altı;Penti;399,99;0,50;Winter;1;3;Clothing
+35;4.02.2025;Tuesday;Ekru Pantolon Pijama Altı;Penti;330,00;0,70;Winter;1;3;Clothing
+36;4.02.2025;Tuesday;Soft Ekru Sweatshirt;Penti;330,00;0,70;Winter;1;3;Clothing
+37;3.02.2025;Monday;Antrasit More Sustainable Normal Bel Wide Leg Jeans;TRENDYOLMİLLA;335,99;0,30;Winter;0;2;Clothing
+38;2.02.2025;Sunday;Floretta Pamuklu Battaniye;Özdilek;150,00;0,30;Winter;0;1;Selfcare
+39;2.02.2025;Sunday;Özdilek Kadife Bright Bornoz;Özdilek;2230,00;NaN;Winter;0;1;Selfcare
+40;2.02.2025;Sunday;Prizma Tip Kalem Kutusu;Jacbag;259,00;NaN;Winter;0;1;Stationery
+41;1.02.2025;Saturday;Thebook Pastels Sert Kapak Defter;Gıpta;105,75;0,04;Winter;0;0;Stationery
+42;1.02.2025;Saturday;The Book Blocks A4 100 Yp. Kareli Spiralli Sert Kapak Bloknot;Gıpta;143,25;0,04;Winter;0;0;Stationery
+43;29.01.2025;Wednesday;ZW Collection Cepli Saten Gömlek;Zara;1390,00;NaN;Winter;0;28;Clothing
+44;29.01.2025;Wednesday;Siyah Yüksek Bel Toparlayıcı Çift Çepli Tayt Bootcut;LOS OJOS;479,39;0,10;Winter;0;28;Clothing
+45;29.01.2025;Wednesday;x Melodi Siyah Jarse Pantolon Flared;LOS OJOS;533,71;0,10;Winter;0;28;Clothing
+46;22.01.2025;Wednesday;House by House Çekmeceli Makyaj Kozmetik Düzenleyici Organizer;Piev;554,90;0,12;Winter;0;21;Home
+47;12.01.2025;Sunday;Straplez Bluz;Zara;490,00;0,50;Winter;1;11;Clothing
+48;11.01.2025;Saturday;MACXIMAL Mini Silky Matte Lipstick;MAC;499,00;NaN;Winter;1;10;Makeup
+49;1.01.2025;Wednesday;Sırt Dekolteli Halter Yaka Bluz;Zara;550,00;0,45;Winter;0;0;Clothing
+50;12.12.2024;Thursday;Yumoş Hırka Takım;Merli;599,99;NaN;Winter;1;11;Clothing
+51;12.12.2024;Thursday;Kare Yaka Basic Bluz;Merli;499,99;NaN;Winter;1;11;Clothing
+52;30.11.2024;Saturday;The Aerolight Transit Termos Bardak;Trendyol;1099,00;NaN;Fall;0;29;Selfcare
+53;30.11.2024;Saturday;Velvet Touch Creamy Stick Blush;Kiko Milano;454,30;0,30;Fall;0;29;Makeup
+54;30.11.2024;Saturday;Lasting Precision Automatic Eyeliner And Khol;Kiko Milano;321,30;0,30;Fall;0;29;Makeup
+55;9.11.2024;Saturday;Adventure Çelik Shot Bardak Seti;Stanley;653,23;NaN;Fall;0;8;Home
+56;9.11.2024;Saturday;Lip Perfector;Clarins;653,20;0,40;Fall;0;8;Makeup
+57;7.11.2024;Thursday;Lip Perfector;Clarins;653,20;0,40;Fall;0;6;Makeup
+58;24.10.2024;Thursday;TRF Bootcut Orta Bel Jean;Zara;760,00;NaN;Fall;0;NaN;Clothing
+59;12.09.2024;Thursday;Mio Smell 2x Yeni Nesil Şarjlı Otomatik Oda Kokusu;Mioji;299,00;NaN;Fall;0;NaN;Home
+60;12.09.2024;Thursday;Mio B1 Mini Kablosuz Saç Düzleştirici Tarak;Mioji;329,00;NaN;Fall;0;NaN;Selfcare
+61;4.09.2024;Wednesday;Pamuk Modal Bluz;Zara;360,00;NaN;Fall;0;NaN;Clothing
+62;4.09.2024;Wednesday;V Yakalı Fitilli T-Shirt;Zara;440,00;NaN;Fall;0;NaN;Clothing
+63;1.09.2024;Sunday;Dik Yaka Triko Kazak;Stradivarius;590,00;NaN;Fall;1;NaN;Clothing
+64;22.08.2024;Thursday;İncili Mandal Toka;Angelika;32,58;0,32;Summer;0;NaN;Accessories
+65;6.08.2024;Tuesday;Keten Karışımlı Geniş Paça Pantolon;Zara;1290,00;NaN;Summer;1;NaN;Clothing
+66;6.08.2024;Tuesday;Deniz Kabuğu Aplikeli Halter Yaka Bluz;Zara;990,00;NaN;Summer;1;NaN;Clothing
+67;1.07.2024;Monday;Kontrast Polo Yaka T-Shirt;Stradivarius;440,00;0,39;Summer;0;NaN;Clothing
+68;26.06.2024;Wednesday;Düşük Bel İspanyol Paça Jean;Pull&Bear;720,00;0,37;Summer;0;NaN;Clothing
+69;26.06.2024;Wednesday;Soluk Efektli Fitilli Triko Hırka;Pull&Bear;590,00;0,49;Summer;0;NaN;Clothing
+70;15.06.2024;Saturday;2'li Kısa Kollu Bisiklet Yaka T-Shirt Paketi;Bershka;440,00;NaN;Summer;0;NaN;Clothing
+71;15.06.2024;Saturday;Pilili Pamuklu Bluz;Zara;590,00;NaN;Summer;0;NaN;Clothing
+72;12.06.2024;Wednesday;Saten Midi Etek;Zara;990,00;NaN;Summer;0;NaN;Clothing
+73;12.05.2024;Sunday;İspanyol Paça Pantolon;Pull&Bear;800,00;0,20;Spring;1;NaN;Clothing
+74;29.04.2024;Monday;Soft Pinch Likit Allık;Rare Beauty;879,20;0,20;Spring;1;NaN;Clothing
+75;26.04.2024;Friday;Likralı Poplin Siyah Gömlek;GRIMELANGE;341,99;0,10;Spring;0;NaN;Clothing
+76;25.04.2024;Thursday;El Yapımı Seramik Kalp Tasarım Mug;Anadolu Saray;124,90;NaN;Spring;0;NaN;Home
+77;1.04.2024;Monday;Fermuarlı Fitilli Hırka;Pull&Bear;990,00;NaN;Spring;0;NaN;Clothing
+78;31.03.2024;Sunday;Uzun Kollu Yarı Transparan T-Shirt;Pull&Bear;320,00;0,55;Spring;0;NaN;Clothing
